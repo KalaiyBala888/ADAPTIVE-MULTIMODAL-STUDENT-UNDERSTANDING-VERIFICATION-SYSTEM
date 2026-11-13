@@ -1,0 +1,50 @@
+[
+  {
+    "topic": "cloud computing",
+    "question": "Describe the main differences between public, private, and hybrid cloud computing models, and explain the advantages and disadvantages of each.",
+    "answer": "aufipaeshifhjasipjhsipjfawflJGI;/ERHGI;",
+    "timestamp": "2026-08-19T11:44:27.911Z"
+  },
+  {
+    "topic": "cloud",
+    "question": "Describe the main differences between cumulus, stratus, and cirrus clouds in terms of their appearance and formation.",
+    "answer": "dskugfoey8eyo;odhf;oiesufpesyoyewofusoupoypyfulesyosy.ofys.ofou",
+    "timestamp": "2026-08-24T09:13:43.074Z"
+  },
+  {
+    "topic": "cloud computing",
+    "question": "Define cloud computing in your own words and explain how it is different from using a personal computer for data storage and processing.",
+    "answer": "Thank you very much.",
+    "timestamp": "2026-09-01T06:12:58.794Z"
+  },
+  {
+    "topic": "blockchain",
+    "question": "Describe the fundamental concept of a blockchain and how it differs from a traditional database. Provide examples to support your explanation.",
+    "answer": "Blockchain is a decentralized and immutable digital ledger that securely records transactions across appear to be a computer network. Lightbulb how it works data is gathered into chronological blocks. Each block links to the previous one via cryptography. Network computers, nodes, validate transactions using a consensus mechanism.",
+    "timestamp": "2026-09-20T17:10:18.922Z"
+  },
+  {
+    "topic": "blockchain",
+    "question": "Describe the fundamental concept of a blockchain and how it differs from a traditional database. Be sure to explain the key features that make blockchain technology unique.",
+    "answer": "Lockchain is a shared decentralized digital ledger that securely records transactions across a network of computers. Check Mark code concepts decentralization spread across many independent computers called nodes. Immutability, past records cannot be changed or deleted. Transparency, all participants view the same updated information. Consensus, network users agree on new data before adding blocks. Lightbulb how it works transaction, a user initiates a data or asset transfer. Notification, nodes check the transaction using rules or cryptography.",
+    "timestamp": "2026-09-21T17:19:44.537Z"
+  },
+  {
+    "topic": "blockchain",
+    "question": "Describe the fundamental concept of a blockchain and how it differs from a traditional database. Be sure to explain the key features that enable its decentralized and secure nature.",
+    "answer": "computers that keeps data safe without needing a central bank or boss. What is a blockchain? A database is a place where information is kept on a computer. A ledger is a book that lists money transactions. Decentralized means no single person, company or government owns it. Instead many computers, called nodes, share identical copies. How it works blocks. Information like a payment is grouped together into a block. Chain. Each new block connects to the one before it using a special code called a hash. A secure string of letters and numbers. Immutable. If someone...",
+    "timestamp": "2026-10-06T16:21:20.074Z"
+  },
+  {
+    "topic": "python",
+    "question": "Describe how Python determines the type of a variable when you assign a value to it, and explain what happens if you later assign a value of a different type to the same variable.",
+    "answer": "\u06be\u0627\u06cc\u062a\u0627 \u0646\u06cc\u0633\u062a\u0627 \u0627\u0646\u0679\u0631\u06cc\u067e\u0679\u0644 \u0627\u0646\u06af\u0648\u06cc\u0686 \u06c1\u0627\u0631\u062f\u06c1 \u06cc\u0648\u0646 \u0633\u0631\u06a9\u0627\u0646 \u067e\u06cc\u0686\u06be\u0627 \u067e\u0631\u0648\u06a9\u06be\u0646\u0627 \u0645\u0627\u0646\u062f\u06c1 can be true true",
+    "timestamp": "2026-10-27T06:35:23.185Z"
+  },
+  {
+    "topic": "python",
+    "question": "Explain how Python\u2019s dynamic typing works and give an example of a situation where this feature can be both an advantage and a potential source of bugs.",
+    "answer": "Paita Nese Interpreter Dhan Geya Dharmad Dharmad Dharmad Dharmad Dharmad",
+    "timestamp": "2026-10-27T06:39:28.236Z"
+  }
+]
